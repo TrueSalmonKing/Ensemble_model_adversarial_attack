@@ -1,6 +1,8 @@
 # Ensemble model adversarial attack
 
 This project explores the transferability of adversarial examples in RobustBench models.
+The code can also be readily used in the following colab link to quickly reproduce the same results provided:
+https://colab.research.google.com/drive/1ajLYUpvWYhVZacY46wCZ4T-noT-CP1zn?usp=sharing
 
 ## Overview
 
