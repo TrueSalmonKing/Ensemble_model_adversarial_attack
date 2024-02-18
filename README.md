@@ -25,3 +25,10 @@ git clone https://github.com/TrueSalmonKing/Ensemble_model_adversarial_attack.gi
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+
+Run the main script to conduct the transferability analysis in addition to viewing the visualization of the perturbations added
+```bash
+python main.py
+```
