@@ -19,3 +19,7 @@ The adversarial examples are crafted using Fast Gradient Sign Method (FGSM) on a
 1. Clone the repository:
    ```bash
    git clone https://github.com/TrueSalmonKing/Ensemble_model_adversarial_attack.git
+2. Install dependencies:
+  ```bash
+   pip install -r requirements.txt
+
